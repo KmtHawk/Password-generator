@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: sans-serif;
+    --primary: #02125ee0;
+    --secondary: #dfe3f8;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: #02125ee0;
+    background-color:#dfe3f8
+}
+
+button {
+    background-color: #02125ee0;
+    color: #dfe3f8;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    display: block;
+    text-align: center;
+    padding-top: 50px;
+}
