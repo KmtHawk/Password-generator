@@ -3,7 +3,7 @@ Password generator
 
 https://kmthawk.github.io/Password-generator/
 
-! [PW Gen] (/Users/Hawk/bootcamp/Homework/Password-generator/assets/Image/Password Generator Screen shot.jpg)
+! [PW Gen] (assets/Image/Password Generator Screen shot.jpg)
 
 ## User Story
 
